@@ -9,9 +9,12 @@
 ```
 .
 ├── 使用AI辅助编程有哪些最佳实践？/
+│   ├── claude.md           - Claude AI对编程最佳实践的回应
+│   ├── deepseek.md         - DeepSeek AI对编程最佳实践的回应
+│   ├── doubao.md           - 豆包AI对编程最佳实践的回应
 │   ├── grok.md             - Grok AI对编程最佳实践的回应
 │   ├── grok_deepsearch.md  - Grok AI关于深度搜索技术在编程中的应用
-│   └── deepseek.md         - DeepSeek AI对编程最佳实践的回应
+│   └── qwenmax.md          - 通义千问对编程最佳实践的回应
 │
 └── 人类与AI之间最理想的合作方式是什么？/
     ├── claude.md           - Claude AI对人类与AI合作的看法
@@ -48,11 +51,6 @@
 
 这些文件主要用于研究和参考目的，展示了不同AI模型对相同问题的不同见解。
 您可以通过比较不同AI的回应来了解它们的思维方式和专业知识差异。
-
-## 开发环境
-
-- 操作系统：Windows
-- 文件格式：Markdown (.md)
 
 ## 贡献
 
